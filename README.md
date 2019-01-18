@@ -22,7 +22,7 @@ output.
       ```
       let z = Number(prompt("How many friends would you like to invite to the movies?"));
       let x = Number(prompt("Please enter the number of your friends' parents who drive SUVs (capacity of 7 seats)."))
-      console.log("X parents who drive SUVs and Y parents who drive sedans are required to transport the Z friends to the movies.");
+      console.log(X "parents who drive SUVs and " Y "parents who drive sedans are required to transport the " Z "friends to the movies.");
       ```
 Quiz 5:
 1. Correct
@@ -70,18 +70,23 @@ I got this question incorrect because I answered that the code snippet would onl
 15. Correct
 
 Quiz 7:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1. Correct
+2. Correct
+3. Incorrect
+The answer that I chose was incorrect because the .push built in function pushes an item to the back of an array. The correct answer was cars[3] = "Volkswagen"; because that would simply replace Honda with Volkswagen without changing the order of the items in the array.
+4. Partially Correct
+I got this questions partially correct because I only chose one of the three correct answers. I also chose one answer that was incorrect. After evaluating the correct answers that I did not choose, cars.indexOf(car) !== -1 and cars.lastIndexOf(car) !== -1 are both correct because both of these built in functions will search the array to check of the user drives a German made car. The incorrect answer I chose, cars[i] === car, will not search the array to check whether the user drives a German made car.
+5. Correct
+6. Correct
+7. Correct
+8. Correct
+9. Partially Correct
+I got this question partially correct by selecting one correct answer and one incorrect answer. The incorrect answer I chose is not correct because a console.log should only include the item that is being logged to the console. Logging the list along with the item will not achieve the goal of the function.
+10. Correct
+11. Correct
+12. Incorrect
+I got this question incorrect by choosing false rather than true. In this case, the value of the function tripleDigits is true because  
+13. Correct
+14. Incorrect
+I got this question incorrect because I chose the third choice instead of the fourth choice. The fourth choice is correct because getLargest will return all negative numbers, which is not the goal of the function.
+15. Correct
