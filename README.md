@@ -84,8 +84,7 @@ I got this questions partially correct because I only chose one of the three cor
 I got this question partially correct by selecting one correct answer and one incorrect answer. The incorrect answer I chose is not correct because a console.log should only include the item that is being logged to the console. Logging the list along with the item will not achieve the goal of the function.
 10. Correct
 11. Correct
-12. Incorrect
-I got this question incorrect by choosing false rather than true. In this case, the value of the function tripleDigits is true because  
+12. Correct
 13. Correct
 14. Incorrect
 I got this question incorrect because I chose the third choice instead of the fourth choice. The fourth choice is correct because getLargest will return all negative numbers, which is not the goal of the function.
