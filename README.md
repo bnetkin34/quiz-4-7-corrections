@@ -22,6 +22,7 @@ output.
       ```
       let z = Number(prompt("How many friends would you like to invite to the movies?"));
       let x = Number(prompt("Please enter the number of your friends' parents who drive SUVs (capacity of 7 seats)."))
+      
       console.log(X "parents who drive SUVs and " Y "parents who drive sedans are required to transport the " Z "friends to the movies.");
       ```
 Quiz 5:
