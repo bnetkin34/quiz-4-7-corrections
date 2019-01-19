@@ -16,13 +16,13 @@ output.
 8. Correct
 9. Correct
 10. Correct
-11.
+11. Open Ended Questions:
     1. Correct
     2. Incorrect
       ```
       let z = Number(prompt("How many friends would you like to invite to the movies?"));
       let x = Number(prompt("Please enter the number of your friends' parents who drive SUVs (capacity of 7 seats)."))
-      
+
       console.log(X "parents who drive SUVs and " Y "parents who drive sedans are required to transport the " Z "friends to the movies.");
       ```
 Quiz 5:
@@ -85,7 +85,8 @@ I got this questions partially correct because I only chose one of the three cor
 I got this question partially correct by selecting one correct answer and one incorrect answer. The incorrect answer I chose is not correct because a console.log should only include the item that is being logged to the console. Logging the list along with the item will not achieve the goal of the function.
 10. Correct
 11. Correct
-12. Correct
+12. Incorrect
+I got this question incorrect by choosing false instead of true. The function tripleDigits will return true instead of false because the numbers in the array provided all support the parameters provided.
 13. Correct
 14. Incorrect
 I got this question incorrect because I chose the third choice instead of the fourth choice. The fourth choice is correct because getLargest will return all negative numbers, which is not the goal of the function.
