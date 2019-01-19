@@ -22,12 +22,10 @@ output.
       ```
       function carpool(){
       let z = Number(prompt("How many friends would you like to invite to the movies?"));
-      let x = Number(prompt("Please enter the number of your friends' parents who drive SUVs (capacity of 7 seats)."))
-      let y = sedans;
-      let numSUVs;
-      numSUVs = z/7;
-      sedans = %numSUVs;
-      console.log(X "parents who drive SUVs and " Y "parents who drive sedans are required to transport the " Z "friends to the movies.");
+      let numSUVs = Number(prompt("Please enter the number of your friends' parents who drive SUVs (capacity of 7 seats)."))
+      let x = z/7;
+      let y = %x;
+      console.log(x "parents who drive SUVs and " y "parents who drive sedans are required to transport the " z "friends to the movies.");
       }
       ```
 Quiz 5:
