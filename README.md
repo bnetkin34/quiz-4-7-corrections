@@ -1,4 +1,4 @@
-# quiz-corrections
+# quiz-4-7-corrections
 Quiz 4:
 1. Correct
 2. Incorrect
